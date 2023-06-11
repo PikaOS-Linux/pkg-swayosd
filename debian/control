@@ -12,6 +12,7 @@ Build-Depends: debhelper-compat (= 13),
                libpangocairo-1.0-0,
                libatk1.0-dev,
                libgtk-3-dev,
+               libgtk-layer-shell-dev,
 Rules-Requires-Root: no
 
 Package: swayosd
