@@ -13,6 +13,7 @@ Build-Depends: debhelper-compat (= 13),
                libatk1.0-dev,
                libgtk-3-dev,
                libgtk-layer-shell-dev,
+               libpulse-dev,
 Rules-Requires-Root: no
 
 Package: swayosd
