@@ -8,6 +8,9 @@ Build-Depends: debhelper-compat (= 13),
                build-essential,
                libgdk-pixbuf-2.0-dev,
                libglib2.0-dev,
+               libpango1.0-dev,
+               libpangocairo-1.0-0,
+               libatk1.0-dev,
 Rules-Requires-Root: no
 
 Package: swayosd
