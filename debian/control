@@ -6,6 +6,8 @@ Standards-Version: 4.6.1
 Build-Depends: debhelper-compat (= 13),
                cargo,
                build-essential,
+               libgdk-pixbuf-2.0-dev,
+               libglib2.0-dev,
 Rules-Requires-Root: no
 
 Package: swayosd
