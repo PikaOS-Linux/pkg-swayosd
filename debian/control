@@ -17,6 +17,7 @@ Build-Depends: debhelper-compat (= 13),
                libevdev-dev,
                libgtk-layer-shell-dev,
                libpulse-dev,
+               meson,
 Rules-Requires-Root: no
 
 Package: swayosd
